@@ -2,7 +2,6 @@
 
 I'm Currently working on a new Project rewriting an application for QSROnline.
 
-
 I am currently learning about Pipelines and CI/CD. As I am learning more about it I am trying to build a new Pipeline and deployment process to fully automate publishing for a project at my current work place QSROnline.
 
 
