@@ -1,10 +1,20 @@
 ### Hi there 👋
-
-I am a Software Engineer at <a href="https://go.qsronline.com/">QSROnline<a/>
+<h1>About Me</h1>
+<h2>History</h2>
+I started writing code and building applications about 4 years ago. My brother is a software developer and won a bid on a freelance project and hired me as a co worker because I was interested in it. I taught myself how to code in Javascript, React and CSS by helping him build a website. After that I fell in love with coding and have been working on Freelance Projects, getting a bachelors degree in computer science and working as a software dev at multiple companies. Currently, I am a Software Engineer at <a href="https://go.qsronline.com/">QSROnline<a/>
 
 <h2>What am I up to now?</h2>
 I'm Currently working on a Project rewriting an old web app with new tools and languages. We are still mainly in the design phase and I have been heavily involved in selecting tools and doing some of the initial planning. I am expecting to start working on the project in the next few months.
 
+<h2>Languages</h2>
+<ul>
+  <li>C#</li>
+  <li>React</li>
+  <li>Javascript</li>
+  <li>CSS</li>
+  <li>Java</li>
+  <li>SQL</li>
+</ul>
 
 <h1>Past Projects</h1>
 
