@@ -12,10 +12,10 @@ I'm Currently working on a Project rewriting an old web app with new tools and l
 <img src="https://github.com/Jishua-allen/Jishua-allen/blob/main/FoolishTimes.gif"/>
 
 <h2>R&R Legal</h2>
+<img src="https://github.com/Jishua-allen/Jishua-allen/blob/main/R&RLegal.gif" width="1080"/>
 
-
-<h2>Speed Game</h2>
-
+<h2>Chat Component for a card game website</h2>
+<img src="https://github.com/Jishua-allen/Jishua-allen/blob/main/ChatComponent.gif"/>
 
 
 
