@@ -1,8 +1,27 @@
 ### Hi there 👋
 
-I'm Currently working on a new Project rewriting an application for QSROnline.
+I am a Software Engineer at <a href="https://go.qsronline.com/">QSROnline<a/>
 
-I am currently learning about Pipelines and CI/CD. As I am learning more about it I am trying to build a new Pipeline and deployment process to fully automate publishing for a project at my current work place QSROnline.
+<h2>What am I up to now?</h2>
+I'm Currently working on a Project rewriting an old web app with new tools and languages. We are still mainly in the design phase and I have been heavily involved in selecting tools and doing some of the initial planning. I am expecting to start working on the project in the next few months.
+
+
+<h1>Past Projects</h1>
+
+<h2>Foolish Times</h2>
+
+
+<h2>R&R Legal</h2>
+
+
+<h2>Speed Game</h2>
+
+
+
+
+
+
+
 
 
 <!--
