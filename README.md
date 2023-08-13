@@ -9,7 +9,7 @@ I'm Currently working on a Project rewriting an old web app with new tools and l
 <h1>Past Projects</h1>
 
 <h2>Foolish Times</h2>
-![](https:\\github.com\Jishua-allen\FoolishTimes.gif)
+![](https://github.com/Jishua-allen/FoolishTimes.gif)
 
 <h2>R&R Legal</h2>
 
