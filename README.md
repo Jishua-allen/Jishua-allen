@@ -25,6 +25,7 @@ I'm Currently working on a Project rewriting an old web app with new tools and l
 <img src="https://github.com/Jishua-allen/Jishua-allen/blob/main/R&RLegal.gif" width="1080"/>
 
 <h2>Chat Component for a card game website</h2>
+<a href="https://github.com/JS-WSU/speed-game5">View Repository</a>
 <img src="https://github.com/Jishua-allen/Jishua-allen/blob/main/ChatComponent.gif"/>
 
 <h2>A Simple Connect Four</h2>
