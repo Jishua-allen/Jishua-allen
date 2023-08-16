@@ -27,6 +27,8 @@ I'm Currently working on a Project rewriting an old web app with new tools and l
 <h2>Chat Component for a card game website</h2>
 <img src="https://github.com/Jishua-allen/Jishua-allen/blob/main/ChatComponent.gif"/>
 
+<h2>A Simple Connect Four</h2>
+<img src="https://github.com/Jishua-allen/Jishua-allen/blob/main/ConnectFour.gif"/>
 
 
 
